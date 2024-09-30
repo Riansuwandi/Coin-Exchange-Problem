@@ -35,8 +35,7 @@ python3 coinExchangeProblem.py
 
 ## Video Demo
 
-[Video demo](https://github.com/Riansuwandi/Coin-Exchange-Problem/tree/main/Video%20Demo)
-
+https://github.com/user-attachments/assets/bff48555-dcc0-444d-b22d-5faa2af41b96
 
 ## Team
 

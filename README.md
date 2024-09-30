@@ -1,9 +1,13 @@
 # Coin Exchange Problem
 
+> [!CAUTION]
+> IMPORTANT!! Please use **Windows** as your operating system
+
+**The Coin Exchange Problem** challenges players to reach a target amount using the fewest possible coins from a set of denominations. The goal is to find the most efficient way to match the total with minimal coin usage.
+
 ## Overview
 
-A simple **Pyth
-on** project of **Coin Exchange Problem** using **Greedy Algorithm**. The goal is to provide the optimal solution for giving change using the fewest number of coins. The greedy algorithm always choose the largest available coin until the target of total coin is reached. However in some cases, greedy algorithm does not always provide an optimal solution.
+A simple **Python** project of **Coin Exchange Problem** using **Greedy Algorithm**. The greedy algorithm always choose the largest available coin until the target of total coin is reached. However in some cases, greedy algorithm does not always provide an optimal solution.
 
 ## Features
 

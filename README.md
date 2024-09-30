@@ -36,6 +36,6 @@ Link Download
 
 ## Team
 
-Muhamad Afrians Suwandi - L0123087
+Muhamad Afrian Suwandi - L0123087
 
 Muhammad Rafli Werizky - L0123097

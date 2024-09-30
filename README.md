@@ -26,6 +26,7 @@ python3 coinExchangeProblem.py
 ```
    
 ## Screenshot
+![image](https://github.com/user-attachments/assets/e5b90b77-465d-4e26-ad06-ac30bbd73da3)
 
 
 ## Video Demo

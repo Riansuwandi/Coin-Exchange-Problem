@@ -1,1 +1,40 @@
-# Coin-Exchange-Problem
+# Coin Exchange Problem
+
+## Overview
+
+A simpe *Python* project of *Coin Exchange Problem* using *Greedy Algorithm*. The goal is to provide the optimal solution for giving change using the fewest number of coins. The greedy algorithm always choose the largest available coin until the target of total coin is reached. However in some cases, greedy algorithm does not always provide an optimal solution.
+
+## Features
+
+- Solve the Coin Exchange Problem with costumizable values
+- User can update coin values
+- User can update target amount of coins
+- Provides a structured menu interface
+
+## Installation
+
+Step by step to do :
+
+1. *Clone* repository or download tge script
+```bash
+git clone https://github.com/Riansuwandi/Coin-Exchange-Problem.git
+```
+2. *Ensure* you have Pyhton 3.x installed
+3. *Run* the program in the script directory
+```bash
+python3 coinExchangeProblem.py
+```
+   
+## Screenshot
+
+
+## Video Demo
+
+Link Download
+
+
+## Team
+
+Muhamad Afrians Suwandi - L0123087
+
+Muhammad Rafli Werizky - L0123097
